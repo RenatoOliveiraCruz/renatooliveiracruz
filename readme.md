@@ -1,7 +1,7 @@
 # 👋 Renato Oliveira Cruz
 
 Desenvolvedor **Backend em formação**, com foco principal em **Java**.  
-Atualmente consolidando fundamentos de **lógica de programação, POO e estruturas básicas**, com evolução planejada para **Spring Boot, desenvolvimento Full Stack e Cloud**.
+Atualmente consolidando fundamentos de **lógica de programação, POO e estruturas**, com evolução planejada para **Spring Boot, desenvolvimento Full Stack e Cloud**.
 
 Este GitHub representa meu **processo real de aprendizado**, com projetos progressivos, código organizado e documentação objetiva.
 
@@ -50,7 +50,7 @@ Este GitHub representa meu **processo real de aprendizado**, com projetos progre
 
 ## 📂 Projetos
 
-- **java-basics-exercises**  
+- **Javanauta**  
   Exercícios de lógica, condicionais, laços e introdução à POO.
 
 - **springboot-api-rest** _(em evolução)_  
