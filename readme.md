@@ -18,18 +18,19 @@ Este GitHub representa meu **processo real de aprendizado**, com projetos progre
 
 ## 🛠️ Tecnologias
 
-### 💻 Backend                                                                                                  ### 🌐 Frontend
+| 💻 Backend | 🌐 Frontend |
+|-----------|------------|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) |
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)                       ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&ogo=javascript&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)    ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)                       ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+---
 
-
-### ☁️ Cloud & DevOps                                                                                           ### 🔐 Redes & Segurança
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)                    ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E2E2E?style=flat)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)                       ![Pentest](https://img.shields.io/badge/Pentest-8A2BE2?style=flat)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)        ![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=flat)
+| ☁️ Cloud & DevOps | 🔐 Redes & Segurança |
+|------------------|---------------------|
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E2E2E) |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) | ![Pentest](https://img.shields.io/badge/Pentest-8A2BE2) |
+| ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) | ![CCNA](https://img.shields.io/badge/CCNA-1BA0D7) |
 
 ---
 
