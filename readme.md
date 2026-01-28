@@ -40,6 +40,8 @@ Este GitHub representa meu **processo real de aprendizado**, com projetos progre
 
 </div>
 
+<br>
+
 <table>
   <tr>
     <td width="50%">
@@ -61,30 +63,6 @@ Este GitHub representa meu **processo real de aprendizado**, com projetos progre
     </td>
   </tr>
 </table>
-
-<br>
-
-<div style="display:flex; justify-content:space-between;">
-
-  <div style="width:48%;">
-
-  ### ☁️ Cloud & DevOps
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-
-  </div>
-
-  <div style="width:48%;">
-
-  ### 🔐 Redes & Segurança
-  ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E2E2E)
-  ![Pentest](https://img.shields.io/badge/Pentest-8A2BE2)
-  ![CCNA](https://img.shields.io/badge/CCNA-1BA0D7)
-
-  </div>
-
-</div>
 
 
 ---
