@@ -1,4 +1,4 @@
-# ![wave]hi.gif)
+# ![wave](hi.gif)
  Renato Oliveira Cruz
 
 Desenvolvedor **Backend em formação**, com foco principal em **Java**.  
