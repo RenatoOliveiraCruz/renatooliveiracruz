@@ -20,5 +20,5 @@ Atualmente expandindo conhecimentos em **Cloud, DevOps e Cybersecurity**.
 > Este GitHub representa minha evolução técnica diária.
 
 📫 **Contato:**  
-- LinkedIn: (link)
-- Email: (email)
+- LinkedIn: https://github.com/RenatoOliveiraCruz
+- Email: renatoj.oliveiracruz@gmail.com
