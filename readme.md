@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Renato Oliveira 
+#  Renato Oliveira <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
 Desenvolvedor **Backend em formação**, com foco principal em **Java**.  
 Atualmente consolidando fundamentos de **lógica de programação, POO e estruturas**, com evolução planejada para **Spring Boot, desenvolvimento Full Stack e Cloud**.
