@@ -19,7 +19,7 @@ Este GitHub representa meu **processo real de aprendizado**, com projetos progre
 ## 🛠️ Tecnologias
 
 <p align="left">
-  <strong>💻 Backend</strong><br/>
+  <strong>💻 Backend</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <strong>🌐 Frontend</strong><br/>
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
