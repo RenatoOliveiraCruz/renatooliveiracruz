@@ -18,45 +18,52 @@ Este GitHub representa meu **processo real de aprendizado**, com projetos progre
 
 ## 🛠️ Tecnologias
 
-<div align="left">
+<div style="display:flex; justify-content:space-between;">
 
-### 💻 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+  <div style="width:48%;">
 
-</div>
+  ### 💻 Backend
+  ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-<div align="right">
+  </div>
 
-### 🌐 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+  <div style="width:48%;">
 
-</div>
+  ### 🌐 Frontend
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 
-<br><br>
-
-<div align="left">
-
-### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+  </div>
 
 </div>
 
 <br>
 
-<div align="left">
+<div style="display:flex; justify-content:space-between;">
 
-### 🔐 Redes & Segurança
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E2E2E)
-![Pentest](https://img.shields.io/badge/Pentest-8A2BE2)
-![CCNA](https://img.shields.io/badge/CCNA-1BA0D7)
+  <div style="width:48%;">
+
+  ### ☁️ Cloud & DevOps
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+
+  </div>
+
+  <div style="width:48%;">
+
+  ### 🔐 Redes & Segurança
+  ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E2E2E)
+  ![Pentest](https://img.shields.io/badge/Pentest-8A2BE2)
+  ![CCNA](https://img.shields.io/badge/CCNA-1BA0D7)
+
+  </div>
 
 </div>
+
 
 ---
 
