@@ -1,18 +1,18 @@
-# 👋 Renato Oliveira Cruz
+# ![alt text](image.png) Renato Oliveira Cruz
 
 Desenvolvedor **Backend em formação**, com foco principal em **Java**.  
 Atualmente consolidando fundamentos de **lógica de programação, POO e estruturas**, com evolução planejada para **Spring Boot, desenvolvimento Full Stack e Cloud**.
 
-Este GitHub representa meu **processo real de aprendizado**, com projetos progressivos, código organizado e documentação objetiva.
+Este GitHub representa meu **processo real de evolução técnica**, com projetos progressivos, código organizado e documentação objetiva.
 
 ---
 
 ## 🧠 Foco Atual
 
-- Lógica de programação
-- Programação Orientada a Objetos (POO)
-- Java como linguagem principal
-- Boas práticas com Git e GitHub
+- Consolidação de lógica de programação e pensamento computacional
+- POO aplicada em Java
+- Estruturação de código limpo e reutilizável
+- Versionamento, organização de repositórios e documentação técnica
 
 ---
 
