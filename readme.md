@@ -33,9 +33,9 @@ Acompanhe aqui meu **processo real de evolução técnica**, com projetos progre
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Cybersecurity-2E2E2E"/>
-  <img src="https://img.shields.io/badge/Pentest-8A2BE2"/>
-  <img src="https://img.shields.io/badge/CCNA-1BA0D7"/>
+  <img src="https://img.shields.io/badge/Redes de Computadores-2E2E2E"/>
+  <img src="https://img.shields.io/badge/NMap-8A2BE2"/>
+  <img src="https://img.shields.io/badge/Protocolos-1BA0D7"/>
 </p>
 
 ---
