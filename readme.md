@@ -64,7 +64,7 @@ Atuar como **Desenvolvedor Backend Java**, com base sólida em engenharia de sof
 
 ## 📫 Contato
 
-- **LinkedIn:** _https://github.com/RenatoOliveiraCruz_
+- **LinkedIn:** _linkedin.com/in/renato-oliveira-cruz_
 - **Email:** _renatoj.oliveiracruz@gmail.com_
 
 ---
