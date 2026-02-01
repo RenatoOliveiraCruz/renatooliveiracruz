@@ -23,6 +23,8 @@ Acompanhe aqui meu **processo real de evolução técnica**, com projetos progre
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"/>
@@ -33,9 +35,9 @@ Acompanhe aqui meu **processo real de evolução técnica**, com projetos progre
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Cybersecurity-2E2E2E"/>
-  <img src="https://img.shields.io/badge/Pentest-8A2BE2"/>
-  <img src="https://img.shields.io/badge/CCNA-1BA0D7"/>
+  <img src="https://img.shields.io/badge/Redes de Computadores-2E2E2E"/>
+  <img src="https://img.shields.io/badge/NMap-8A2BE2"/>
+  <img src="https://img.shields.io/badge/Protocolos-1BA0D7"/>
 </p>
 
 ---
@@ -64,7 +66,7 @@ Atuar como **Desenvolvedor Backend Java**, com base sólida em engenharia de sof
 
 ## 📫 Contato
 
-- **LinkedIn:** _https://github.com/RenatoOliveiraCruz_
+- **LinkedIn:** _linkedin.com/in/renato-oliveira-cruz_
 - **Email:** _renatoj.oliveiracruz@gmail.com_
 
 ---
