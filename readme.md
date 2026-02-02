@@ -1,6 +1,6 @@
 #  Renato Oliveira <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-Desenvolvedor **Backend em formação**, com foco principal em **Java**.  
+  Desenvolvedor **Backend em formação**, com foco principal em **Java**.  
 Atualmente consolidando fundamentos de **lógica de programação, POO e estruturas**, com evolução planejada para **Spring Boot, desenvolvimento Full Stack e Cloud**.
 
 Acompanhe aqui meu **processo real de evolução técnica**, com projetos progressivos, código organizado e documentação objetiva.
