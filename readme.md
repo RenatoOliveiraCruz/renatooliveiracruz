@@ -60,7 +60,7 @@ Acompanhe aqui meu **processo real de evolução técnica**, com projetos progre
 
 ## 🎯 Objetivo
 
-Atuar como **Desenvolvedor Backend Java**, com base sólida em engenharia de software, e intenção de carreira direcionada para **arquitetura, cloud e segurança de sistemas**.
+Atuar como **Desenvolvedor de Sistemas**, com base sólida em engenharia de software, e intenção de carreira direcionada para **arquitetura, cloud e segurança da informação**.
 
 ---
 
